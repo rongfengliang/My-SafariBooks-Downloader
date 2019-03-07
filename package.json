@@ -10,7 +10,8 @@
     "safaribooks-downloader": "./index.js"
   },
   "pkg":{
-    "scripts":["index.js"]
+    "scripts":["index.js"],
+    "assets": "lib/ebook-writer/templates/**/*"
   },
   "repository": {
     "type": "git",
