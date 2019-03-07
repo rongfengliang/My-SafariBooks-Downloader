@@ -9,6 +9,9 @@
   "bin": {
     "safaribooks-downloader": "./index.js"
   },
+  "pkg":{
+    "scripts":["index.js"]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nicohaenggi/SafariBooks-Downloader.git"
